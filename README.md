@@ -39,7 +39,7 @@ This directory details the steps performed to infer genetic ancestry of the UKBB
 ### Summary
 
 | Super population    |  Predicted N   |  Overlap with Neale Lab GWAS   |  Predicted N, post-QC*   |  In Neale Lab: YES   |  In Neale Lab: NO  |
-| --- | -----: | -----: | -----: | -----: | -----: | -----------: | -----:|   
+| --- | -----: | -----: | -----: | -----: | -----: |   
 | AFR | 8,206 | 0 | 7,507 | 0 | 7,507 |
 | AMR | 705 | 0 | 687 | 0 | 687 |
 | EAS | 2,278 | 0 | 2,181 | 0 | 2,181 |
