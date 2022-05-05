@@ -1,6 +1,6 @@
 # ukbb-pca
 
-This directory details the steps performed to infer genetic ancestry of the UKBB samples. 
+This directory details the steps performed to infer genetic ancestry of the UKBB samples (used in the PRS-CSx project).
 
 
 ## PRS-CSx: population assignment
